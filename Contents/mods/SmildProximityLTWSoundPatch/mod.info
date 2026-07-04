@@ -1,0 +1,8 @@
+id=SmildProximityLTWSoundPatch
+name=Smild Proximity LTW Sound Patch
+description=Sound restoration patch for Legendary Tactical Weapons (LTW) B42. Restores custom swing, hit, break and drop sounds.
+poster=poster.png
+icon=icon.png
+require=LTWB42
+versionMin=42.19
+modversion=1.0.0

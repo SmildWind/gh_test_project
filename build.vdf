@@ -7,5 +7,5 @@
 	"visibility"		"0"
 	"title"		"Smild Proximity Category Filter & Survivor Pack"
 	"description"		"Integrated utility mod: 1. Proximity category filter panel (All/Food/Weapon/Tool/Med/Book/Ammo/Mat). 2. Morad Survivor Rules diet buffs and death skill recovery. 3. Basic starter skills & hand torch. (B42.19)"
-	"changenote"		"Updated mod.info for proper Build 42 metadata compatibility."
+	"changenote"		"Refactored LTW Sound Patch into a separate optional submod with explicit dependency metadata."
 }
