@@ -1,0 +1,97 @@
+module LTW
+{
+    imports { Base }
+
+    item LegendaryTacticalSword
+    {
+        SwingSound = Base.KatanaSwing,
+        HitSound = Base.KatanaHit,
+        DoorHitSound = Base.KatanaHit,
+        HitFloorSound = Base.KatanaHit,
+        ImpactSound = Base.KatanaHit,
+        BreakSound = Base.KatanaBreak,
+        DropSound = Base.KatanaDrop,
+    }
+
+    item LegendaryTacticalTomahawk
+    {
+        SwingSound = Base.HandAxeSwing,
+        HitSound = Base.HandAxeHit,
+        DoorHitSound = Base.HandAxeHit,
+        HitFloorSound = Base.HandAxeHit,
+        BreakSound = Base.HandAxeBreak,
+        DropSound = Base.HandAxeDrop,
+    }
+
+    item LegendaryTacticalAxe
+    {
+        SwingSound = Base.AxeSwing,
+        HitSound = Base.AxeHit,
+        DoorHitSound = Base.AxeHit,
+        HitFloorSound = Base.AxeHit,
+        BreakSound = Base.AxeBreak,
+        DropSound = Base.AxeDrop,
+    }
+
+    item LegendaryTacticalCrowbar
+    {
+        SwingSound = Base.CrowbarSwing,
+        HitSound = Base.CrowbarHit,
+        DoorHitSound = Base.CrowbarHit,
+        HitFloorSound = Base.CrowbarHit,
+        BreakSound = Base.CrowbarBreak,
+        DropSound = Base.CrowbarDrop,
+    }
+
+    item LegendaryTacticalBat
+    {
+        SwingSound = Base.BaseballBatSwing,
+        HitSound = Base.BaseballBatHit,
+        DoorHitSound = Base.BaseballBatHit,
+        HitFloorSound = Base.BaseballBatHit,
+        BreakSound = Base.BaseballBatBreak,
+        DropSound = Base.BaseballBatDrop,
+    }
+
+    item LegendaryTacticalHammer
+    {
+        SwingSound = Base.HammerSwing,
+        HitSound = Base.HammerHit,
+        DoorHitSound = Base.HammerHit,
+        HitFloorSound = Base.HammerHit,
+        BreakSound = Base.HammerBreak,
+        DropSound = Base.HammerDrop,
+    }
+
+    item LegendaryTacticalKnife
+    {
+        SwingSound = Base.HuntingKnifeSwing,
+        HitSound = Base.HuntingKnifeHit,
+        DoorHitSound = Base.HuntingKnifeHit,
+        HitFloorSound = Base.HuntingKnifeHit,
+        ImpactSound = Base.HuntingKnifeHit,
+        BreakSound = Base.HuntingKnifeBreak,
+        DropSound = Base.HuntingKnifeDrop,
+    }
+
+    item LegendaryTacticalSledgehammer
+    {
+        SwingSound = Base.SledgehammerSwing,
+        HitSound = Base.SledgehammerHit,
+        DoorHitSound = Base.SledgehammerHit,
+        HitFloorSound = Base.SledgehammerHit,
+        BreakSound = Base.SledgehammerBreak,
+        DropSound = Base.SledgehammerDrop,
+    }
+
+    item LegendaryTacticalSpear
+    {
+        SwingSound = Base.LongSpearSwing,
+        HitSound = Base.LongSpearHit,
+        DoorHitSound = Base.LongSpearHit,
+        HitFloorSound = Base.LongSpearHit,
+        ImpactSound = Base.LongSpearHit,
+        BreakSound = Base.LongSpearBreak,
+        DropSound = Base.LongSpearDrop,
+    }
+}

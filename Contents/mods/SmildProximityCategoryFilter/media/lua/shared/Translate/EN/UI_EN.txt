@@ -1,0 +1,10 @@
+UI_EN = {
+    UI_MSR_ProteinFed_Name = "Protein Fed / 蛋白充足",
+    UI_MSR_ProteinFed_Desc = "Protein intake is sufficient. Your body is in good condition for expeditions and clearing areas.",
+    UI_MSR_FreshDiet_Name = "Fresh Diet / 新鲜饮食",
+    UI_MSR_FreshDiet_Desc = "Fresh food intake is sufficient. Your mental state is more stable.",
+    UI_MSR_ComfortMeal_Name = "Comfort Meal / 暖心饭",
+    UI_MSR_ComfortMeal_Desc = "A good meal helps you briefly forget the pressure of the apocalypse.",
+    UI_MSR_PoorDiet_Name = "Poor Diet / 糟糕饮食",
+    UI_MSR_PoorDiet_Desc = "Long-term poor eating habits are affecting both body and mind.",
+}

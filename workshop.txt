@@ -1,0 +1,6 @@
+version=1
+id=SmildProximityCategoryFilter
+title=Smild Proximity Category Filter & Survivor Pack
+description=[Smild Proximity Category Filter & Survivor Pack] [br][br] Features:[br] 1. Proximity Inventory Category Filter Panel (B42): Adds a 1-click filter bar (All, Food, Weapon, Tool, Medical, Literature, Ammo, Material) below the search entry when viewing proximity items. Easy to view surrounding loot without typing.[br] 2. Morad Survivor Rules (B42): Integrates diet variety scoring buffs (Protein Fed, Fresh Diet, Comfort Meal, Poor Diet) affecting character wellness, stress, and carrying weight. Also features continuity rules for keeping a portion of skill levels on death.[br] 3. Basic Starter Skills: Gives starting character level boost for core crafting skills and spawns a fully charged hand torch on creation.[br][br] 一个高度整合的实用生存扩展包：[br] 1. 临近物资一键分类（支持 B42）：查看地面周围物品时，在搜索框下方自动生成自适应分类按钮栏（全部、食物、武器、工具、医疗、书籍、弹药、材料）。不需要手动输入文字，一键过滤周围地面杂乱物资。[br] 2. Morad 生存法则（Build 42）：集成了丰富饱腹 Buff 规则（高蛋白、新鲜食物、暖心饭、粗劣饮食评分），直接作用于疲劳、负重和心情。并支持死亡后技能继承保存。[br] 3. 新手开局礼包：开局自动赠送部分基础制作技能等级以及满电量开启的手电筒。
+tags=Build 42;Interface;Multiplayer;Saves
+visibility=friendsOnly

@@ -1,0 +1,11 @@
+"workshopitem"
+{
+	"appid"		"108600"
+	"publishedfileid"		"3757091867"
+	"contentfolder"		"E:\SteamLibrary\steamapps\common\ProjectZomboid\我创建的mod\SmildProximityCategoryFilter\Contents"
+	"previewfile"		"E:\SteamLibrary\steamapps\common\ProjectZomboid\我创建的mod\SmildProximityCategoryFilter\preview.png"
+	"visibility"		"0"
+	"title"		"Smild Proximity Category Filter & Survivor Pack"
+	"description"		"Integrated utility mod: 1. Proximity category filter panel (All/Food/Weapon/Tool/Med/Book/Ammo/Mat). 2. Morad Survivor Rules diet buffs and death skill recovery. 3. Basic starter skills & hand torch. (B42.19)"
+	"changenote"		"Updated mod.info for proper Build 42 metadata compatibility."
+}
